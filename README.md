@@ -5,3 +5,5 @@ A bash script for switching window focus in Hyperland
 + jq
 + hyprctl
 + tofi
+
+![screengrab](recording.mp4)
