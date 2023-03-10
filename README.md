@@ -6,4 +6,4 @@ A bash script for switching window focus in Hyperland
 + hyprctl
 + tofi
 
-![screengrab](recording.mp4)
+![screengrab](recording.gif)
